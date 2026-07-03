@@ -1,15 +1,13 @@
 {
   "launcher": {
-    "version": "1.0.0",
-    "minimumSupportedVersion": "1.0.0",
-    "update": {
-      "url": "https://github.com/Antho18X/my-launcher-files/releases/download/v1.0.0/update.zip",
-      "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
-    }
+    "version": "1.0.0"
+  },
+  "authentication": {
+    "microsoftClientId": "a74d3cdc-d1ca-4cab-93f8-806b85772876"
   },
   "news": [
     {
-      "id": "welcome",
+      "id": "bienvenido",
       "title": "Bienvenido",
       "summary": "Primera prueba del launcher para el servidor Magma 1.21.1.",
       "imageUrl": null,
