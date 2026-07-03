@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "minimumSupportedVersion": "1.0.0",
     "update": {
-      "url": "https://github.com/Antho18X/mi-launcher-files/releases/download/v1.0.0/update.zip",
+      "url": "https://github.com/Antho18X/my-launcher-files/releases/download/v1.0.0/update.zip",
       "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
     }
   },
@@ -11,20 +11,20 @@
     {
       "id": "welcome",
       "title": "Bienvenido",
-      "summary": "Primera prueba del launcher desde GitHub.",
+      "summary": "Primera prueba del launcher para el servidor Magma 1.21.1.",
       "imageUrl": null,
       "publishedAt": "2026-07-03T00:00:00Z"
     }
   ],
   "projects": [
     {
-      "id": "vanilla-plus",
-      "name": "Vanilla+",
-      "description": "Proyecto inicial de prueba.",
-      "minecraftVersion": "1.20.1",
-      "loader": "Fabric",
-      "loaderVersion": "0.15.11",
-      "recommendedRamMb": 4096,
+      "id": "magma-1211",
+      "name": "Magma 1.21.1",
+      "description": "Cliente base para servidor Magma con NeoForge mods y Bukkit plugins.",
+      "minecraftVersion": "1.21.1",
+      "loader": "NeoForge",
+      "loaderVersion": "pending",
+      "recommendedRamMb": 6144,
       "files": []
     }
   ]
