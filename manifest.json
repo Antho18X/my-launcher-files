@@ -1,0 +1,31 @@
+{
+  "launcher": {
+    "version": "1.0.0",
+    "minimumSupportedVersion": "1.0.0",
+    "update": {
+      "url": "https://github.com/Antho18X/mi-launcher-files/releases/download/v1.0.0/update.zip",
+      "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    }
+  },
+  "news": [
+    {
+      "id": "welcome",
+      "title": "Bienvenido",
+      "summary": "Primera prueba del launcher desde GitHub.",
+      "imageUrl": null,
+      "publishedAt": "2026-07-03T00:00:00Z"
+    }
+  ],
+  "projects": [
+    {
+      "id": "vanilla-plus",
+      "name": "Vanilla+",
+      "description": "Proyecto inicial de prueba.",
+      "minecraftVersion": "1.20.1",
+      "loader": "Fabric",
+      "loaderVersion": "0.15.11",
+      "recommendedRamMb": 4096,
+      "files": []
+    }
+  ]
+}
