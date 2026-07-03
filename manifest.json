@@ -23,7 +23,7 @@
       "description": "Cliente base para servidor Magma con NeoForge mods y Bukkit plugins.",
       "minecraftVersion": "1.21.1",
       "loader": "NeoForge",
-      "loaderVersion": "pending",
+      "loaderVersion": "latest",
       "recommendedRamMb": 6144,
       "files": []
     }
