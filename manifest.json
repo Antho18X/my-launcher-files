@@ -1,13 +1,13 @@
 {
   "serverStatus": {
-    "state": "online",
+    "state": "maintenance",
     "label": "NO MERCY SMP",
     "message": "",
     "updatedAt": "2026-07-15T20:00:00Z"
   },
   "versions": [
     {
-      "id": "temporada-1",
+      "id": "No Mercy SMP",
       "minecraft": "1.21.1",
       "minecraftVersion": "1.21.1",
       "modloader": "NeoForge",
