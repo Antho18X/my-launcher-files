@@ -1,13 +1,13 @@
 {
   "serverStatus": {
     "state": "maintenance",
-    "label": "NO MERCY SMP",
+    "label": "REINOS CELESTIALES",
     "message": "",
     "updatedAt": "2026-07-15T20:00:00Z"
   },
   "versions": [
     {
-      "id": "No Mercy SMP",
+      "id": "Reinos Celestiales",
       "minecraft": "1.21.1",
       "minecraftVersion": "1.21.1",
       "modloader": "NeoForge",
