@@ -134,11 +134,6 @@
           "sha256": "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
         },
         {
-          "name": "loginsystem-2.2.jar",
-          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/loginsystem-2.2.jar",
-          "sha256": "fb232292918e2727444eab1536d9f99138f381b8253c4093a9c78f9b2fb0e341"
-        },
-        {
           "name": "lootr-neoforge-1.21.1-1.11.37.122.jar",
           "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/lootr-neoforge-1.21.1-1.11.37.122.jar",
           "sha256": "fd330d69bb0740d2833ad91784ee5f8b0e4c5d8dbee379e60e93ca2d1c252fce"
