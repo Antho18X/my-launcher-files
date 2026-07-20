@@ -139,11 +139,6 @@
           "sha256": "fd330d69bb0740d2833ad91784ee5f8b0e4c5d8dbee379e60e93ca2d1c252fce"
         },
         {
-          "name": "LuckPerms-NeoForge-5.4.140.jar",
-          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/LuckPerms-NeoForge-5.4.140.jar",
-          "sha256": "6b8097a7e1a27d870d3d472d00079fa958271db16b9433369dce6c7f62530b19"
-        },
-        {
           "name": "mafglib-0.4.3+mc1.21.1.jar",
           "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/mafglib-0.4.3%2Bmc1.21.1.jar",
           "sha256": "d40789ad40e5643ae232a07b4535135fe56585c12538bc30158076f956aab081"
