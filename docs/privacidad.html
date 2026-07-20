@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Política de Privacidad — Cam Studio</title>
+<meta name="description" content="Política de Privacidad de Cam Studio: qué datos manejamos y cómo los usamos.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ash-950:#120c1a; --ash-900:#191223; --ash-800:#241a30; --ash-700:#33243f; --ash-600:#4c3a5c;
+    --bone:#ece5f3; --bone-dim:#b8a9c7;
+    --violet:#5a3487; --violet-bright:#7c4fb0;
+    --accent:#b06cff; --gold:#d9a441; --ok:#7fae6b;
+    --font-display:'Bebas Neue','Arial Narrow',sans-serif;
+    --font-body:'Inter',-apple-system,sans-serif;
+    --font-mono:'JetBrains Mono',monospace;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:var(--ash-950); color:var(--bone); font-family:var(--font-body);
+    line-height:1.6; overflow-x:hidden;
+  }
+  a{color:var(--accent);}
+  a:hover{color:#c489ff;}
+  .wrap{max-width:820px; margin:0 auto; padding:0 28px;}
+
+  body::before{
+    content:''; position:fixed; inset:0; pointer-events:none; z-index:1; opacity:.05;
+    background-image:
+      repeating-linear-gradient(115deg, transparent 0 3px, #000 3px 4px),
+      repeating-linear-gradient(25deg, transparent 0 5px, #000 5px 6px);
+    mix-blend-mode:overlay;
+  }
+
+  /* ============ NAV ============ */
+  .nav{
+    position:sticky; top:0; z-index:20; display:flex; align-items:center; justify-content:space-between;
+    padding:18px 28px; background:rgba(18,12,26,.88); backdrop-filter:blur(6px);
+    border-bottom:1px solid var(--ash-700);
+  }
+  .nav__brand{display:flex; align-items:center; gap:10px; font-family:var(--font-display); font-size:20px; letter-spacing:.06em; color:var(--bone);}
+  .nav__mark{width:11px; height:11px; background:var(--accent); box-shadow:0 0 10px var(--accent); flex-shrink:0;}
+  .nav__back{font-family:var(--font-mono); font-size:13px; letter-spacing:.02em; color:var(--bone-dim);}
+  .nav__back:hover{color:var(--bone);}
+
+  /* ============ HEADER ============ */
+  .doc-header{position:relative; padding:80px 28px 50px; overflow:hidden;}
+  .doc-header::after{
+    content:''; position:absolute; inset:0; z-index:0;
+    background:radial-gradient(ellipse 600px 320px at 85% -20%, rgba(90,52,135,.5), transparent 65%);
+  }
+  .doc-header__inner{position:relative; z-index:2; max-width:820px; margin:0 auto;}
+  .eyebrow{
+    display:inline-flex; align-items:center; gap:8px; font-family:var(--font-mono); font-size:12px;
+    letter-spacing:.12em; text-transform:uppercase; color:var(--gold);
+    border:1px solid var(--ash-600); padding:6px 12px; border-radius:3px; margin-bottom:22px;
+  }
+  h1{
+    font-family:var(--font-display); font-weight:400; letter-spacing:.01em;
+    font-size:clamp(38px, 6vw, 60px); line-height:.98; text-transform:uppercase; color:var(--bone);
+  }
+  .doc-header__meta{margin-top:18px; font-family:var(--font-mono); font-size:13px; color:var(--bone-dim);}
+
+  /* ============ CONTENT ============ */
+  .doc{padding:20px 0 110px;}
+  .doc section{padding:0 0 44px;}
+  .doc h2{
+    font-family:var(--font-display); font-weight:400; text-transform:uppercase; letter-spacing:.02em;
+    font-size:26px; color:var(--bone); margin-bottom:14px; padding-bottom:12px; border-bottom:1px solid var(--ash-700);
+    display:flex; align-items:baseline; gap:12px;
+  }
+  .doc h2 .num{font-family:var(--font-mono); font-size:14px; color:var(--accent); font-weight:600;}
+  .doc p, .doc li{color:var(--bone-dim); font-size:15.5px; margin-bottom:12px;}
+  .doc strong{color:var(--bone); font-weight:600;}
+  .doc ul{padding-left:22px; margin-bottom:12px;}
+  .doc li{margin-bottom:8px;}
+  .doc code{
+    font-family:var(--font-mono); background:var(--ash-800); border:1px solid var(--ash-700);
+    padding:2px 7px; border-radius:3px; font-size:13.5px; color:var(--gold);
+  }
+  .table{
+    width:100%; border-collapse:collapse; margin:14px 0 20px; font-size:14.5px;
+    background:var(--ash-900); border:1px solid var(--ash-700); border-radius:6px; overflow:hidden;
+  }
+  .table th, .table td{
+    text-align:left; padding:12px 16px; border-bottom:1px solid var(--ash-700); vertical-align:top;
+  }
+  .table tr:last-child td{border-bottom:none;}
+  .table th{
+    font-family:var(--font-mono); font-size:11.5px; letter-spacing:.06em; text-transform:uppercase;
+    color:var(--gold); background:var(--ash-800);
+  }
+  .table td{color:var(--bone-dim);}
+  .table td strong{color:var(--bone);}
+  .callout{
+    background:var(--ash-900); border:1px solid var(--ash-700); border-left:3px solid var(--accent);
+    border-radius:4px; padding:18px 20px; font-size:14.5px; color:var(--bone-dim); margin-top:8px;
+  }
+  .callout strong{color:var(--bone);}
+
+  /* ============ FOOTER ============ */
+  footer{border-top:1px solid var(--ash-700); padding:44px 0;}
+  .footer__row{display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:16px;}
+  .footer__brand{font-family:var(--font-display); font-size:16px; letter-spacing:.05em; color:var(--bone-dim);}
+  .footer__links{display:flex; gap:24px; font-family:var(--font-mono); font-size:12.5px; color:var(--ash-600);}
+  .footer__links a{color:var(--ash-600);}
+  .footer__links a:hover{color:var(--bone-dim);}
+  .disclaimer{margin-top:20px; font-family:var(--font-mono); font-size:11px; letter-spacing:.02em; color:var(--ash-600); text-align:center;}
+
+  ::selection{background:var(--violet); color:var(--bone);}
+  :focus-visible{outline:2px solid var(--gold); outline-offset:2px;}
+
+  @media (max-width:600px){
+    .table{display:block; overflow-x:auto;}
+  }
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav__brand"><span class="nav__mark"></span>CAM STUDIO</div>
+  <a class="nav__back" href="index.html">← Volver al inicio</a>
+</nav>
+
+<header class="doc-header">
+  <div class="doc-header__inner">
+    <div class="eyebrow">Legal</div>
+    <h1>Política de<br>Privacidad</h1>
+    <div class="doc-header__meta">Última actualización: 16 de julio de 2026 · Cam Studio</div>
+  </div>
+</header>
+
+<main class="doc">
+  <div class="wrap">
+
+    <section>
+      <h2><span class="num">01</span>Qué cubre esto</h2>
+      <p>Esta política explica qué información maneja Cam Studio cuando usás nuestro launcher, jugás en nuestros servers, o participás en nuestro Discord. La escribimos en criollo, sin vueltas: contamos qué juntamos, para qué, y con quién no lo compartimos.</p>
+    </section>
+
+    <section>
+      <h2><span class="num">02</span>Qué datos manejamos</h2>
+      <table class="table">
+        <tr><th>Dato</th><th>De dónde sale</th><th>Para qué lo usamos</th></tr>
+        <tr>
+          <td><strong>Nombre de usuario y UUID de Minecraft</strong></td>
+          <td>Tu cuenta Microsoft/Xbox, verificada mediante las APIs oficiales de autenticación de Microsoft</td>
+          <td>Identificarte dentro del server y aplicar reglas/permisos</td>
+        </tr>
+        <tr>
+          <td><strong>Token de sesión de Microsoft/Xbox</strong></td>
+          <td>Login premium a través de las APIs oficiales de Microsoft</td>
+          <td>Mantener tu sesión iniciada sin pedirte el login todo el tiempo. Se guarda localmente en tu equipo, no en nuestros servidores</td>
+        </tr>
+        <tr>
+          <td><strong>Dirección IP</strong></td>
+          <td>Automáticamente, al conectarte al server</td>
+          <td>Estabilidad de conexión, moderación anti-abuso (baneos de IP en casos de trampa o ataques)</td>
+        </tr>
+        <tr>
+          <td><strong>Mensajes y actividad en Discord</strong></td>
+          <td>Tu uso de nuestro servidor de Discord</td>
+          <td>Moderación de la comunidad, según los términos propios de Discord</td>
+        </tr>
+        <tr>
+          <td><strong>Correo electrónico</strong></td>
+          <td>Solo si nos escribís vos directamente</td>
+          <td>Responder tu consulta o reporte</td>
+        </tr>
+      </table>
+      <div class="callout"><strong>Lo que no hacemos:</strong> no accedemos ni guardamos tu contraseña de Microsoft (la autenticación pasa 100% por los servidores oficiales de Microsoft/Xbox), y no vendemos ni compartimos tus datos con terceros con fines publicitarios.</div>
+    </section>
+
+    <section>
+      <h2><span class="num">03</span>Dónde vive esta información</h2>
+      <p>El token de sesión y tu configuración del launcher se guardan localmente en tu propia computadora, dentro de la carpeta de instalación. Los datos de tu personaje dentro del server (inventario, progreso, coordenadas) se guardan en la infraestructura del server que estés jugando. Los logs de conexión e IP se conservan el tiempo necesario para fines de moderación y estabilidad, y no más.</p>
+    </section>
+
+    <section>
+      <h2><span class="num">04</span>Servicios de terceros</h2>
+      <p>Usamos servicios externos para operar. Cada uno tiene su propia política de privacidad, que te recomendamos revisar:</p>
+      <ul>
+        <li><strong>Microsoft / Xbox Live:</strong> gestiona la autenticación de tu cuenta premium.</li>
+        <li><strong>Mojang / Minecraft Services:</strong> verifica tu perfil y titularidad del juego.</li>
+        <li><strong>Discord:</strong> aloja nuestra comunidad y mensajería.</li>
+        <li><strong>GitHub:</strong> aloja este sitio y los manifests de actualización del launcher.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2><span class="num">05</span>Menores de edad</h2>
+      <p>No pedimos ni recolectamos intencionalmente datos personales de menores más allá de lo que la propia cuenta de Microsoft o Discord ya requiere para su uso. Si sos padre, madre o tutor y creés que tu hijo/a nos compartió información personal por fuera de lo necesario para jugar, escribinos y la eliminamos.</p>
+    </section>
+
+    <section>
+      <h2><span class="num">06</span>Tus derechos</h2>
+      <p>Podés pedirnos en cualquier momento:</p>
+      <ul>
+        <li>Saber qué datos tuyos tenemos guardados.</li>
+        <li>Que corrijamos información incorrecta.</li>
+        <li>Que eliminemos tus datos (por ejemplo, logs de IP o mensajes guardados), salvo lo que necesitemos conservar por motivos de moderación o seguridad.</li>
+      </ul>
+      <p>Para ejercer cualquiera de estos derechos, escribinos a <a href="mailto:cam.studios.mc@gmail.com">cam.studios.mc@gmail.com</a>.</p>
+    </section>
+
+    <section>
+      <h2><span class="num">07</span>Cambios en esta política</h2>
+      <p>Si actualizamos esta política de forma importante, lo vamos a anunciar en nuestro Discord. Seguir usando el launcher o nuestros servers después de un cambio implica que lo aceptás.</p>
+    </section>
+
+    <section>
+      <h2><span class="num">08</span>Contacto</h2>
+      <p>Cualquier duda sobre privacidad o tus datos: <a href="mailto:cam.studios.mc@gmail.com">cam.studios.mc@gmail.com</a> o por nuestro <a href="https://discord.gg/uxJuEDFmcq" target="_blank" rel="noopener">Discord</a>.</p>
+    </section>
+
+  </div>
+</main>
+
+<footer>
+  <div class="wrap footer__row">
+    <div class="footer__brand">CAM STUDIO</div>
+    <div class="footer__links">
+      <a href="https://discord.gg/uxJuEDFmcq" target="_blank" rel="noopener">Discord</a>
+      <a href="mailto:cam.studios.mc@gmail.com">cam.studios.mc@gmail.com</a>
+      <a href="terminos.html">Términos de Servicio</a>
+      <a href="index.html">Inicio</a>
+    </div>
+  </div>
+  <div class="wrap">
+    <p class="disclaimer">No es un producto oficial de Minecraft. No aprobado por ni asociado con Mojang o Microsoft.</p>
+  </div>
+</footer>
+
+</body>
+</html>
