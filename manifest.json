@@ -1,6 +1,6 @@
 {
   "serverStatus": {
-    "state": "maintenance",
+    "state": "online",
     "label": "REINOS CELESTIALES",
     "message": "",
     "updatedAt": "2026-07-15T20:00:00Z"
@@ -161,7 +161,7 @@
         {
           "name": "rc-reinos-celestiales-1.0.0.jar",
           "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/rc-reinos-celestiales-1.0.0.jar",
-          "sha256": "4e22acdc79901117579578a5709ac6377ad94f1fc8afb0ffb990a940ff7c82da"
+          "sha256": "4bb5f6edc0328d50aaed937bf5220346c24458eed8160ce070f3cedd84d7185c"
         },
         {
           "name": "sable-neoforge-1.21.1-2.0.3.jar",
