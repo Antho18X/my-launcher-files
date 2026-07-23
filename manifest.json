@@ -59,6 +59,11 @@
           "sha256": "770752f39e4e67d8c116b389e60db5b1a496107f9be8386e5eb83d05a817e207"
         },
         {
+          "name": "cpm-admin-only-1.0.0.jar",
+          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/cpm-admin-only-1.0.0.jar",
+          "sha256": "c0675b34c409d566de31d3f2551c7a8c527b5023f8e69ba5e5a14c03733c65be"
+        },
+        {
           "name": "create-1.21.1-6.0.10.jar",
           "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/create-1.21.1-6.0.10.jar",
           "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
@@ -94,6 +99,21 @@
           "sha256": "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02"
         },
         {
+          "name": "entity_model_features-3.2.4-1.21-neoforge.jar",
+          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/entity_model_features-3.2.4-1.21-neoforge.jar",
+          "sha256": "84c22f2be06ee6bfab265a443e075225878bba9f408843030dc6de3152e9dedb"
+        },
+        {
+          "name": "entity_texture_features_1.21-neoforge-7.1.jar",
+          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/entity_texture_features_1.21-neoforge-7.1.jar",
+          "sha256": "b2e396543c678b8378a2d5557a0cd3d24790364bff7e96edaf17921112d6176b"
+        },
+        {
+          "name": "explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
+          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
+          "sha256": "dc161b5a6fdc57078913c5846d825a50c476f4ce6279b02837dd24fa33417260"
+        },
+        {
           "name": "ferritecore-7.0.3-neoforge.jar",
           "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/ferritecore-7.0.3-neoforge.jar",
           "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
@@ -109,9 +129,19 @@
           "sha256": "0d620c975619b04110b94a73d5b42d252563ff59c1eae9d21ab2ee7e38460a3c"
         },
         {
-          "name": "jei-1.21.1-neoforge-19.39.0.369.jar",
-          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/jei-1.21.1-neoforge-19.39.0.369.jar",
-          "sha256": "79b6d034fa233cc87c5fe486387f69cdb54078e1262b440b5c7e7853a0254adf"
+          "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
+          "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
+        },
+        {
+          "name": "ItemBorders-1.21-neoforge-1.2.5.jar",
+          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/ItemBorders-1.21-neoforge-1.2.5.jar",
+          "sha256": "6ad3a4f3ea1c56fb8600db9cbdbe2de9c50b217f9981de134b44aab216da83b9"
+        },
+        {
+          "name": "jei-1.21.1-neoforge-19.39.0.370.jar",
+          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/jei-1.21.1-neoforge-19.39.0.370.jar",
+          "sha256": "cb908be918ce678f486f78768792f78269919d38fead59e34eb9acc79f7b39ff"
         },
         {
           "name": "justzoom_neoforge_2.1.0_MC_1.21.1.jar",
@@ -144,6 +174,11 @@
           "sha256": "d40789ad40e5643ae232a07b4535135fe56585c12538bc30158076f956aab081"
         },
         {
+          "name": "particular-1.21.1-NeoForge-1.5.5.jar",
+          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/particular-1.21.1-NeoForge-1.5.5.jar",
+          "sha256": "9911906ae0d883a617ce950ff4f1833bd9e379c5b221df18a2b3e09556f84b2a"
+        },
+        {
           "name": "Pehkui-3.8.3+1.21-neoforge.jar",
           "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/Pehkui-3.8.3%2B1.21-neoforge.jar",
           "sha256": "50aab835b0f98dedf33383483b021789c2991786f02b00e6d1b7152dc43570ec"
@@ -154,6 +189,16 @@
           "sha256": "b49535698de9c7b5a879c8ec99175771d87d5261d5cc4c6152ba1fa51fc5676a"
         },
         {
+          "name": "Prism-1.21.1-neoforge-1.0.11.jar",
+          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/Prism-1.21.1-neoforge-1.0.11.jar",
+          "sha256": "b6a1e585416c48d7d9fa53fc12c67122ad1f3a6965202b51d4e2c643ffca61c2"
+        },
+        {
+          "name": "punchy-2.6.2-neoforge-1.21.1.jar",
+          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/punchy-2.6.2-neoforge-1.21.1.jar",
+          "sha256": "e49be5f403c426aea1aa5d17b0ce93719d08f00e8e78f43cf65c28fecb795ef2"
+        },
+        {
           "name": "PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
           "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
           "sha256": "00069866c4c6bb67ee5192d1b425d46e6a1601dc598e61bd10b67ba5fa8b029c"
@@ -161,7 +206,7 @@
         {
           "name": "rc-reinos-celestiales-1.0.0.jar",
           "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/rc-reinos-celestiales-1.0.0.jar",
-          "sha256": "114d3faed27bbd1874353ac0714d6d24bfdcccf1b8844d7676f0bc607fc1892d"
+          "sha256": "c4bebf2c82eb1e5290d9fa363845eb21790629c14eaae30a4ebbfee00bec4716"
         },
         {
           "name": "sable-neoforge-1.21.1-2.0.3.jar",
@@ -184,14 +229,14 @@
           "sha256": "2f9e69ec9521e657100ef83b3bdf3f18dba6078d57f9853722d7643a577b2266"
         },
         {
-          "name": "sophisticatedbackpacks-1.21.1-3.25.71.1997.jar",
-          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/sophisticatedbackpacks-1.21.1-3.25.71.1997.jar",
-          "sha256": "1fd87cd3e19299d71d55aa2e8982976082bc667a344dee404f1ca3c0d76796bd"
+          "name": "sophisticatedbackpacks-1.21.1-3.25.72.2012.jar",
+          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/sophisticatedbackpacks-1.21.1-3.25.72.2012.jar",
+          "sha256": "24c36cd27605d4f84d38826fb3716a0f117c2fc64e2fa825401b1b52b1d34c73"
         },
         {
-          "name": "sophisticatedcore-1.21.1-1.4.77.2173.jar",
-          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/sophisticatedcore-1.21.1-1.4.77.2173.jar",
-          "sha256": "76a3d8d04bdce15ad2b6cd601d153d1650569e59d577369b9f8b2d28132de9f8"
+          "name": "sophisticatedcore-1.21.1-1.4.79.2182.jar",
+          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/sophisticatedcore-1.21.1-1.4.79.2182.jar",
+          "sha256": "ac4565a4ead4cd234534d2c2254cc5c44f138f523f28781a561a0ffd59fa8447"
         },
         {
           "name": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
@@ -217,6 +262,28 @@
           "name": "xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
           "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
           "sha256": "2c4089c2f9132b85749a18920d6e2098744f61fe98854fcff2e3768f2d7269fa"
+        }
+      ],
+      "resourcepacks": [
+        {
+          "name": "-1.21.2 Fresh Moves v3.1 (No Animated Eyes).zip",
+          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/resourcepacks/-1.21.2%20Fresh%20Moves%20v3.1%20(No%20Animated%20Eyes).zip",
+          "sha256": "91c2549cb3a462ca3d493a72a0ab478dc5fa74b047ac1b2a664d86a0f6f51f2d"
+        },
+        {
+          "name": "FreshAnimations_v1.10.4.zip",
+          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/resourcepacks/FreshAnimations_v1.10.4.zip",
+          "sha256": "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
+        },
+        {
+          "name": "LowOnFire v26.2§8.zip",
+          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/resourcepacks/LowOnFire%20v26.2%C2%A78.zip",
+          "sha256": "25fc89fedc6d47fe2480a60910c65c8fd8b50121aaab919933e47cc6ba730a67"
+        },
+        {
+          "name": "MandalasGUI+Dakmode_1.21.6_v2.1.zip",
+          "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/resourcepacks/MandalasGUI%2BDakmode_1.21.6_v2.1.zip",
+          "sha256": "a760f0271ed5cc363761aac17a0b388cb56b273fa2ba055562d9f2e08965edfb"
         }
       ]
     }
