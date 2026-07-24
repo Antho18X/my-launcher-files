@@ -140,6 +140,17 @@
   .launcher-card__label{color:var(--ash-600); text-transform:uppercase; font-size:11px; letter-spacing:.1em; width:80px;}
   .launcher-card__value{color:var(--bone);}
   .launcher-card__action{display:flex; flex-direction:column; align-items:flex-start; gap:12px; max-width:340px;}
+  .launcher-card__note code{font-family:var(--font-mono); background:var(--ash-800); padding:1px 5px; border-radius:3px; color:var(--bone);}
+
+  /* ============ OS TABS ============ */
+  .os-tabs{display:flex; gap:8px; margin-bottom:20px;}
+  .os-tab{
+    font-family:var(--font-mono); font-size:13px; font-weight:600; letter-spacing:.02em;
+    background:transparent; border:1px solid var(--ash-600); color:var(--bone-dim);
+    padding:9px 18px; border-radius:4px; cursor:pointer; transition:all .15s ease;
+  }
+  .os-tab:hover{color:var(--bone); border-color:var(--bone-dim);}
+  .os-tab.is-active{background:var(--accent); color:var(--ash-950); border-color:var(--accent);}
   .launcher-card__note{font-size:12.5px; color:var(--bone-dim); line-height:1.55;}
   @media (max-width:640px){ .launcher-card{padding:32px 24px;} }
 
@@ -256,7 +267,12 @@
       <h2>Cam Studio Launcher</h2>
       <p>Instalá nuestro launcher para jugar en los servers de Cam Studio: login con cuenta Microsoft y mods que se actualizan solos.</p>
     </div>
-    <div class="launcher-card">
+    <div class="os-tabs" role="tablist">
+      <button class="os-tab is-active" data-os="windows" role="tab" aria-selected="true">Windows</button>
+      <button class="os-tab" data-os="linux" role="tab" aria-selected="false">Linux</button>
+    </div>
+
+    <div class="launcher-card" data-panel="windows">
       <div class="launcher-card__info">
         <div class="launcher-card__row">
           <span class="launcher-card__label">Versión</span>
@@ -276,8 +292,51 @@
         <p class="launcher-card__note">Windows puede mostrar una advertencia de SmartScreen por ser un instalador nuevo. Hacé clic en "Más información" → "Ejecutar de todas formas" para continuar.</p>
       </div>
     </div>
+
+    <div class="launcher-card" data-panel="linux" hidden>
+      <div class="launcher-card__info">
+        <div class="launcher-card__row">
+          <span class="launcher-card__label">Versión</span>
+          <span class="launcher-card__value">0.1.0</span>
+        </div>
+        <div class="launcher-card__row">
+          <span class="launcher-card__label">Sistema</span>
+          <span class="launcher-card__value">Linux (.AppImage)</span>
+        </div>
+        <div class="launcher-card__row">
+          <span class="launcher-card__label">Peso</span>
+          <span class="launcher-card__value">~80 MB</span>
+        </div>
+      </div>
+      <div class="launcher-card__action">
+        <a class="btn btn--primary" href="Cam_Studio_Launcher_0.1.0.AppImage" download>Descargar (.AppImage)</a>
+        <a class="btn btn--ghost" href="Cam_Studio_Launcher_0.1.0.deb" download>Descargar (.deb) — Debian/Ubuntu</a>
+        <p class="launcher-card__note">AppImage: dale permiso de ejecución antes de abrirlo con <code>chmod +x Cam_Studio_Launcher_0.1.0.AppImage</code> y luego ejecutalo con doble clic o desde la terminal. El .deb se instala con <code>sudo apt install ./Cam_Studio_Launcher_0.1.0.deb</code>.</p>
+      </div>
+    </div>
   </div>
 </section>
+
+<script>
+(function(){
+  var tabs = document.querySelectorAll('.os-tab');
+  var panels = document.querySelectorAll('.launcher-card[data-panel]');
+  function show(os){
+    tabs.forEach(function(t){
+      var active = t.dataset.os === os;
+      t.classList.toggle('is-active', active);
+      t.setAttribute('aria-selected', active);
+    });
+    panels.forEach(function(p){ p.hidden = p.dataset.panel !== os; });
+  }
+  tabs.forEach(function(t){
+    t.addEventListener('click', function(){ show(t.dataset.os); });
+  });
+  if (navigator.userAgent.indexOf('Linux') !== -1 && navigator.userAgent.indexOf('Android') === -1) {
+    show('linux');
+  }
+})();
+</script>
 
 <section id="discord">
   <div class="wrap">
