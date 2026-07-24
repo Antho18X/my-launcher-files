@@ -1,0 +1,496 @@
+﻿{
+    "serverStatus":  {
+                         "state":  "online",
+                         "label":  "REINOS CELESTIALES",
+                         "message":  "",
+                         "updatedAt":  "2026-07-15T20:00:00Z"
+                     },
+    "versions":  [
+                     {
+                         "id":  "Reinos Celestiales",
+                         "minecraft":  "1.21.1",
+                         "minecraftVersion":  "1.21.1",
+                         "modloader":  "NeoForge",
+                         "versionJsonUrl":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/versions/neoforge-1.21.1-21.1.228.json",
+                         "mods":  [
+                                      {
+                                          "name":  "AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+                                          "sha256":  "a24674330b8de59a02e0ebe4dd81fcff15d90e8c1cdcc32980d73c1cab050933"
+                                      },
+                                      {
+                                          "name":  "appleskin-neoforge-mc1.21-3.0.9.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+                                          "sha256":  "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
+                                      },
+                                      {
+                                          "name":  "architectury-13.0.8-neoforge.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/architectury-13.0.8-neoforge.jar",
+                                          "sha256":  "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+                                      },
+                                      {
+                                          "name":  "BetterF3-11.0.3-NeoForge-1.21.1.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+                                          "sha256":  "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26"
+                                      },
+                                      {
+                                          "name":  "BetterThirdPerson-neoforge-1.9.0.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/BetterThirdPerson-neoforge-1.9.0.jar",
+                                          "sha256":  "2e74076c67a78f16d696ec9ad1e3138d6ed1418544b297dbe3f4ad9cd791d059"
+                                      },
+                                      {
+                                          "name":  "camsmod-1.0.0.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/camsmod-1.0.0.jar",
+                                          "sha256":  "0ac34f7706471511c2958a000138cd5199a4f0cd4237bcc87bf6989e14e99b12"
+                                      },
+                                      {
+                                          "name":  "cloth-config-15.0.140-neoforge.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/cloth-config-15.0.140-neoforge.jar",
+                                          "sha256":  "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+                                      },
+                                      {
+                                          "name":  "Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+                                          "sha256":  "5e058a4fcb29a538821351081fcf10172fc707767756774afed1bf0e1953c7e3"
+                                      },
+                                      {
+                                          "name":  "cosmeticarmorreworkedforked-neoforge-1.21.1-0.0.4.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/cosmeticarmorreworkedforked-neoforge-1.21.1-0.0.4.jar",
+                                          "sha256":  "770752f39e4e67d8c116b389e60db5b1a496107f9be8386e5eb83d05a817e207"
+                                      },
+                                      {
+                                          "name":  "cpm-admin-only-1.0.0.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/cpm-admin-only-1.0.0.jar",
+                                          "sha256":  "c0675b34c409d566de31d3f2551c7a8c527b5023f8e69ba5e5a14c03733c65be"
+                                      },
+                                      {
+                                          "name":  "create-1.21.1-6.0.10.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/create-1.21.1-6.0.10.jar",
+                                          "sha256":  "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+                                      },
+                                      {
+                                          "name":  "create-aeronautics-bundled-1.21.1-1.3.0.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/create-aeronautics-bundled-1.21.1-1.3.0.jar",
+                                          "sha256":  "482c90e0e6fe72f33fe7abb079e5fda581cd660ee53c38c44448a64283e1044c"
+                                      },
+                                      {
+                                          "name":  "CustomPlayerModels-1.21-0.6.27a.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/CustomPlayerModels-1.21-0.6.27a.jar",
+                                          "sha256":  "b5d3a473998648eefdf646e10a48af95dac57add0df681ca4407e83c716d6c84"
+                                      },
+                                      {
+                                          "name":  "Data_Anchor-neoforge-1.21.1-2.0.0.14.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/Data_Anchor-neoforge-1.21.1-2.0.0.14.jar",
+                                          "sha256":  "ec5d54ae85bc39be3c17b38d800aa8e2fa57a2a1f46464fc1e328ed61eb85041"
+                                      },
+                                      {
+                                          "name":  "durabilitytooltip-1.1.6-neoforge-mc1.21.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/durabilitytooltip-1.1.6-neoforge-mc1.21.jar",
+                                          "sha256":  "4a2353159c6039d8ce090f7d399ae421e648fdacb7f29a18c67b58886b36f32c"
+                                      },
+                                      {
+                                          "name":  "Enhanced-Celestials-NeoForge-1.21.1-6.0.2.5.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/Enhanced-Celestials-NeoForge-1.21.1-6.0.2.5.jar",
+                                          "sha256":  "eb0d2c334278d2ca648ad43b29286ab9d58df59c2329ca605d1e039935b95b9d"
+                                      },
+                                      {
+                                          "name":  "entityculling-neoforge-1.10.5-mc1.21.1.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+                                          "sha256":  "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02"
+                                      },
+                                      {
+                                          "name":  "entity_model_features-3.2.4-1.21-neoforge.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/entity_model_features-3.2.4-1.21-neoforge.jar",
+                                          "sha256":  "84c22f2be06ee6bfab265a443e075225878bba9f408843030dc6de3152e9dedb"
+                                      },
+                                      {
+                                          "name":  "entity_texture_features_1.21-neoforge-7.1.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/entity_texture_features_1.21-neoforge-7.1.jar",
+                                          "sha256":  "b2e396543c678b8378a2d5557a0cd3d24790364bff7e96edaf17921112d6176b"
+                                      },
+                                      {
+                                          "name":  "explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
+                                          "sha256":  "dc161b5a6fdc57078913c5846d825a50c476f4ce6279b02837dd24fa33417260"
+                                      },
+                                      {
+                                          "name":  "ferritecore-7.0.3-neoforge.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/ferritecore-7.0.3-neoforge.jar",
+                                          "sha256":  "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
+                                      },
+                                      {
+                                          "name":  "Highlighter-1.21-neoforge-1.1.11.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/Highlighter-1.21-neoforge-1.1.11.jar",
+                                          "sha256":  "cc9480a383a8f9bcf2c6c3bfc913aa7e3b1b9ad1062c5180c4d0d281000c9f8b"
+                                      },
+                                      {
+                                          "name":  "Iceberg-1.21.1-neoforge-1.3.2.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
+                                          "sha256":  "0d620c975619b04110b94a73d5b42d252563ff59c1eae9d21ab2ee7e38460a3c"
+                                      },
+                                      {
+                                          "name":  "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
+                                          "sha256":  "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
+                                      },
+                                      {
+                                          "name":  "ItemBorders-1.21-neoforge-1.2.5.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/ItemBorders-1.21-neoforge-1.2.5.jar",
+                                          "sha256":  "6ad3a4f3ea1c56fb8600db9cbdbe2de9c50b217f9981de134b44aab216da83b9"
+                                      },
+                                      {
+                                          "name":  "jei-1.21.1-neoforge-19.39.0.370.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/jei-1.21.1-neoforge-19.39.0.370.jar",
+                                          "sha256":  "cb908be918ce678f486f78768792f78269919d38fead59e34eb9acc79f7b39ff"
+                                      },
+                                      {
+                                          "name":  "justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+                                          "sha256":  "83f1701f7802d4355e57f73c2751b29e4b760a4e2a18427504bbd9ce7090a0c1"
+                                      },
+                                      {
+                                          "name":  "konkrete_neoforge_1.9.9_MC_1.21.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+                                          "sha256":  "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd"
+                                      },
+                                      {
+                                          "name":  "ldlib2-neoforge-1.21.1-2.2.29-all.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/ldlib2-neoforge-1.21.1-2.2.29-all.jar",
+                                          "sha256":  "7effd5bd06a77f0c34013857f9fe81cf20f09f1c4f7b6e28315ef444828fc9a7"
+                                      },
+                                      {
+                                          "name":  "lithium-neoforge-0.15.4+mc1.21.1.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/lithium-neoforge-0.15.4%2Bmc1.21.1.jar",
+                                          "sha256":  "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
+                                      },
+                                      {
+                                          "name":  "lootr-neoforge-1.21.1-1.11.37.122.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/lootr-neoforge-1.21.1-1.11.37.122.jar",
+                                          "sha256":  "fd330d69bb0740d2833ad91784ee5f8b0e4c5d8dbee379e60e93ca2d1c252fce"
+                                      },
+                                      {
+                                          "name":  "mafglib-0.4.3+mc1.21.1.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/mafglib-0.4.3%2Bmc1.21.1.jar",
+                                          "sha256":  "d40789ad40e5643ae232a07b4535135fe56585c12538bc30158076f956aab081"
+                                      },
+                                      {
+                                          "name":  "particular-1.21.1-NeoForge-1.5.5.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/particular-1.21.1-NeoForge-1.5.5.jar",
+                                          "sha256":  "9911906ae0d883a617ce950ff4f1833bd9e379c5b221df18a2b3e09556f84b2a"
+                                      },
+                                      {
+                                          "name":  "Pehkui-3.8.3+1.21-neoforge.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/Pehkui-3.8.3%2B1.21-neoforge.jar",
+                                          "sha256":  "50aab835b0f98dedf33383483b021789c2991786f02b00e6d1b7152dc43570ec"
+                                      },
+                                      {
+                                          "name":  "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+                                          "sha256":  "b49535698de9c7b5a879c8ec99175771d87d5261d5cc4c6152ba1fa51fc5676a"
+                                      },
+                                      {
+                                          "name":  "Prism-1.21.1-neoforge-1.0.11.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/Prism-1.21.1-neoforge-1.0.11.jar",
+                                          "sha256":  "b6a1e585416c48d7d9fa53fc12c67122ad1f3a6965202b51d4e2c643ffca61c2"
+                                      },
+                                      {
+                                          "name":  "punchy-2.6.2-neoforge-1.21.1.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/punchy-2.6.2-neoforge-1.21.1.jar",
+                                          "sha256":  "e49be5f403c426aea1aa5d17b0ce93719d08f00e8e78f43cf65c28fecb795ef2"
+                                      },
+                                      {
+                                          "name":  "PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+                                          "sha256":  "00069866c4c6bb67ee5192d1b425d46e6a1601dc598e61bd10b67ba5fa8b029c"
+                                      },
+                                      {
+                                          "name":  "rc-reinos-celestiales-1.0.0.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/rc-reinos-celestiales-1.0.0.jar",
+                                          "sha256":  "c4bebf2c82eb1e5290d9fa363845eb21790629c14eaae30a4ebbfee00bec4716"
+                                      },
+                                      {
+                                          "name":  "sable-neoforge-1.21.1-2.0.3.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/sable-neoforge-1.21.1-2.0.3.jar",
+                                          "sha256":  "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279"
+                                      },
+                                      {
+                                          "name":  "skinrestorer-2.9.0+1.21-neoforge.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/skinrestorer-2.9.0%2B1.21-neoforge.jar",
+                                          "sha256":  "841f8ed0805ae0697e2a25b4da0e1d87094886c455178e52bd487cc46332bbef"
+                                      },
+                                      {
+                                          "name":  "sky_archipelago-1.3.4.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/sky_archipelago-1.3.4.jar",
+                                          "sha256":  "e3911c96c80a77abd064b2af0fb0819c09f922eef93cff4d0b319baefdc6d97c"
+                                      },
+                                      {
+                                          "name":  "sodium-neoforge-0.8.12+mc1.21.1.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/sodium-neoforge-0.8.12%2Bmc1.21.1.jar",
+                                          "sha256":  "2f9e69ec9521e657100ef83b3bdf3f18dba6078d57f9853722d7643a577b2266"
+                                      },
+                                      {
+                                          "name":  "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+                                          "sha256":  "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"
+                                      },
+                                      {
+                                          "name":  "voicechat-neoforge-1.21.1-2.6.21.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/voicechat-neoforge-1.21.1-2.6.21.jar",
+                                          "sha256":  "901c4917960ce975cecc9a39c15d32c22beabc23ed3c36f0ce75df5a6cdd9366"
+                                      },
+                                      {
+                                          "name":  "worldedit-mod-7.3.8.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/worldedit-mod-7.3.8.jar",
+                                          "sha256":  "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
+                                      },
+                                      {
+                                          "name":  "xaerominimap-neoforge-1.21.1-26.4.2.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/xaerominimap-neoforge-1.21.1-26.4.2.jar",
+                                          "sha256":  "b722bcf794288f0ed51165cd1f057fc4505e20abbc723b2e17e900426e443603"
+                                      },
+                                      {
+                                          "name":  "xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+                                          "sha256":  "2c4089c2f9132b85749a18920d6e2098744f61fe98854fcff2e3768f2d7269fa"
+                                      },
+                                      {
+                                          "name":  "accents-neoforge-1.21.1-2.0.2.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/accents-neoforge-1.21.1-2.0.2.jar",
+                                          "sha256":  "c7b203b17609235cce3401e8c293f31f87493f825a2ab2387309be0e9944664c"
+                                      },
+                                      {
+                                          "name":  "architectury-13.0.11-neoforge.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/architectury-13.0.11-neoforge.jar",
+                                          "sha256":  "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb"
+                                      },
+                                      {
+                                          "name":  "balm-neoforge-1.21.1-21.0.63.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/balm-neoforge-1.21.1-21.0.63.jar",
+                                          "sha256":  "b2fb37cbd47cdbd80300c2328e42c1440cfaa9ccc8635d2867b9373792f621f5"
+                                      },
+                                      {
+                                          "name":  "beautify-neoforge-1.21.1-2.0.2.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/beautify-neoforge-1.21.1-2.0.2.jar",
+                                          "sha256":  "30fe272345eb016408d9144a7d33795a8bff0f33f68d9ab71805d0088b818f26"
+                                      },
+                                      {
+                                          "name":  "BridgingMod-2.6.2+1.21.1.neoforge-release.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/BridgingMod-2.6.2+1.21.1.neoforge-release.jar",
+                                          "sha256":  "382f3688c1a6c93ae96c12e8c7b3f529aa1a2f7dd07c2aaabda5e0b28464715b"
+                                      },
+                                      {
+                                          "name":  "camping-neoforge-1.21.1-2.1.4.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/camping-neoforge-1.21.1-2.1.4.jar",
+                                          "sha256":  "c0d96b73a4a38b5c616a695b763ddc787d40fea3205ee8ee64742c8e809887b1"
+                                      },
+                                      {
+                                          "name":  "carryon-neoforge-1.21.1-2.2.5.8.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/carryon-neoforge-1.21.1-2.2.5.8.jar",
+                                          "sha256":  "467a03769cb981d57f3deff07f65625849a56949e84191e4d4e11ae91d2753ee"
+                                      },
+                                      {
+                                          "name":  "clientsidecrafting-neoforge-1.21.1-1.0.0.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/clientsidecrafting-neoforge-1.21.1-1.0.0.jar",
+                                          "sha256":  "ba68b4d8b6981ec3e6b82efc674ee84f4390b2fdeadb6990baf9468e33b4757f"
+                                      },
+                                      {
+                                          "name":  "collective-1.21.1-8.39.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/collective-1.21.1-8.39.jar",
+                                          "sha256":  "ae59b63790c3097fb01e7801c21f3e7feed13b151c2ad993895196c74381a8fe"
+                                      },
+                                      {
+                                          "name":  "cookingforblockheads-neoforge-1.21.1-21.1.24.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/cookingforblockheads-neoforge-1.21.1-21.1.24.jar",
+                                          "sha256":  "3dd7af93b2156b14cf279fa6da2f7a1f88a63a81d7cfe001ac63945b06e62ccd"
+                                      },
+                                      {
+                                          "name":  "CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+                                          "sha256":  "bd4164b9ec8e21775e34a99a8d21e5280ee8cc6d3bd003a1b32dc3ada59ae887"
+                                      },
+                                      {
+                                          "name":  "crittersandcompanions-neoforge-1.21.1-2.6.2.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/crittersandcompanions-neoforge-1.21.1-2.6.2.jar",
+                                          "sha256":  "9ac35089802c1316c7f64d0ef277a700b7365155a986b79b7c90e75faf8b13a6"
+                                      },
+                                      {
+                                          "name":  "curios-neoforge-9.5.1+1.21.1.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/curios-neoforge-9.5.1+1.21.1.jar",
+                                          "sha256":  "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+                                      },
+                                      {
+                                          "name":  "DiagonalFences-v21.1.1-1.21.1-NeoForge.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/DiagonalFences-v21.1.1-1.21.1-NeoForge.jar",
+                                          "sha256":  "361d1025a8a81f8e77d21da5332bd8390c80c316bae256f8513de97c9f6c9970"
+                                      },
+                                      {
+                                          "name":  "DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar",
+                                          "sha256":  "9ea9e986a09f72c5a40b0ec571c64b802e16f0b4d15b0be452c1d71ceddd1726"
+                                      },
+                                      {
+                                          "name":  "DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar",
+                                          "sha256":  "2c36dd055872aa7643f2a4cc787c998dcddf62910d17c4a166d250f6d55e6cbe"
+                                      },
+                                      {
+                                          "name":  "doubledoors-1.21.1-7.2.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/doubledoors-1.21.1-7.2.jar",
+                                          "sha256":  "947cc425dba61a003fc6cfc9ce6bb87dbef1f2d4561701235eb2fed6073b72ff"
+                                      },
+                                      {
+                                          "name":  "emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+                                          "sha256":  "8cff63e900acd55bb39d41978cc2a70a974e326e2038c30ff20ccfde4c953a43"
+                                      },
+                                      {
+                                          "name":  "fragmentum-neoforge-1.21.1-2.2.4.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/fragmentum-neoforge-1.21.1-2.2.4.jar",
+                                          "sha256":  "15951685cdf983b3ddd4118d64aa87fe2715ba13492866c339e5a7ab77b7e52a"
+                                      },
+                                      {
+                                          "name":  "framework-neoforge-1.21.1-0.13.11.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/framework-neoforge-1.21.1-0.13.11.jar",
+                                          "sha256":  "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5"
+                                      },
+                                      {
+                                          "name":  "fzzy_config-0.7.6+1.21+neoforge.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/fzzy_config-0.7.6+1.21+neoforge.jar",
+                                          "sha256":  "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
+                                      },
+                                      {
+                                          "name":  "geckolib-neoforge-1.21.1-4.9.2.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/geckolib-neoforge-1.21.1-4.9.2.jar",
+                                          "sha256":  "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba"
+                                      },
+                                      {
+                                          "name":  "goblintraders-neoforge-1.21.1-1.11.2.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/goblintraders-neoforge-1.21.1-1.11.2.jar",
+                                          "sha256":  "523aebc80baab377072fe26c5ff9d1c3649764f185131e7849acd99833d406dd"
+                                      },
+                                      {
+                                          "name":  "immersive_aircraft-1.4.6+1.21.1-neoforge.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/immersive_aircraft-1.4.6+1.21.1-neoforge.jar",
+                                          "sha256":  "953222fefb9439b74760583d46dbf620ed85cc614f5ab629aec05ab6ce40ebe7"
+                                      },
+                                      {
+                                          "name":  "immersive_melodies-neoforge-0.6.4+1.21.1.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/immersive_melodies-neoforge-0.6.4+1.21.1.jar",
+                                          "sha256":  "a6bfb284b3def1e34d62f8cfb0d63dff5683f2a98081b4d9a76580b806ae3972"
+                                      },
+                                      {
+                                          "name":  "immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+                                          "sha256":  "c377f6dfaf5be5022761f6e3d6310ef90e59e10bd00bb252d78cff5381b2520c"
+                                      },
+                                      {
+                                          "name":  "inventoryessentials-neoforge-1.21.1-21.1.17.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/inventoryessentials-neoforge-1.21.1-21.1.17.jar",
+                                          "sha256":  "33654aeb1815d8ba4655c17d08f8ac0b38bebc0d6692f1820a5337a846cc0b8d"
+                                      },
+                                      {
+                                          "name":  "ItemPhysic_NEOFORGE_v1.8.13_mc1.21.1.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/ItemPhysic_NEOFORGE_v1.8.13_mc1.21.1.jar",
+                                          "sha256":  "e4b30c34523349695d1c0cccfd139d4eeb6b874770db6521ee954efa46eb2ac0"
+                                      },
+                                      {
+                                          "name":  "jamlib-neoforge-1.3.6+1.21.1.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/jamlib-neoforge-1.3.6+1.21.1.jar",
+                                          "sha256":  "911afdfe717a2375a651253e282ac9e769f8bead381d33c2167955c25eefe514"
+                                      },
+                                      {
+                                          "name":  "jei-1.21.1-neoforge-19.39.0.371.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/jei-1.21.1-neoforge-19.39.0.371.jar",
+                                          "sha256":  "ddf4b16d3b0bbf231ab38e52243e884351e5cf143df90f10cc8f9b19d13b5e30"
+                                      },
+                                      {
+                                          "name":  "kotlinforforge-5.12.0-all.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/kotlinforforge-5.12.0-all.jar",
+                                          "sha256":  "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139"
+                                      },
+                                      {
+                                          "name":  "longer_following_time-merged-1.21.1-1.1.0.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/longer_following_time-merged-1.21.1-1.1.0.jar",
+                                          "sha256":  "1682ccd78b08c878e40a6eff9fc80ecf2e597303586bcee550be0c107c40a2d7"
+                                      },
+                                      {
+                                          "name":  "monolib-neoforge-1.21.1-4.0.2.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/monolib-neoforge-1.21.1-4.0.2.jar",
+                                          "sha256":  "13b3806a99673cdfbc86d675a0c82b380e2f372e8cbacc88d5148885498a46e3"
+                                      },
+                                      {
+                                          "name":  "more_useful_copper-merged-1.21.1-3.0.0.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/more_useful_copper-merged-1.21.1-3.0.0.jar",
+                                          "sha256":  "808fe9ba67162b7626005a51a9048454779afe0790eb63874427182370949a04"
+                                      },
+                                      {
+                                          "name":  "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+                                          "sha256":  "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
+                                      },
+                                      {
+                                          "name":  "naturalist-1.0.2-neoforge-1.21.1.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/naturalist-1.0.2-neoforge-1.21.1.jar",
+                                          "sha256":  "04616a9f136c7a8fd6f9f75e83be80af33bc54924b3ca16b0f33d19273c25e95"
+                                      },
+                                      {
+                                          "name":  "onlyhammersandexcavators-1.21.1-1.0.2.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/onlyhammersandexcavators-1.21.1-1.0.2.jar",
+                                          "sha256":  "6bddfe763cd2736b0174bfe24fb064217351cfb227096932166bf39cc048ebd6"
+                                      },
+                                      {
+                                          "name":  "Paraglider-neoforge-21.1.5.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/Paraglider-neoforge-21.1.5.jar",
+                                          "sha256":  "2f084b728383d9de7e9c652c3a92cad086e0b38f131b61f8900d25ba18734e44"
+                                      },
+                                      {
+                                          "name":  "refurbished_furniture-neoforge-1.21.1-1.0.20.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/refurbished_furniture-neoforge-1.21.1-1.0.20.jar",
+                                          "sha256":  "d2fad0e9f710de93c247cdc79e6eb486ccb4b6cdc55e29a2373f54cb6900f0ac"
+                                      },
+                                      {
+                                          "name":  "Ribbits-1.21.1-NeoForge-4.1.6.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/Ribbits-1.21.1-NeoForge-4.1.6.jar",
+                                          "sha256":  "794223f5a91b8b80a962754b5180ec3e2472db6941e9b6c1cdd49324df628389"
+                                      },
+                                      {
+                                          "name":  "rightclickharvest-neoforge-4.6.1+1.21.1.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/rightclickharvest-neoforge-4.6.1+1.21.1.jar",
+                                          "sha256":  "b5d597ed361964ba9530a848fe8987715f40af2390dfa1a6adb70a2a74076d52"
+                                      },
+                                      {
+                                          "name":  "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+                                          "sha256":  "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
+                                      },
+                                      {
+                                          "name":  "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+                                          "sha256":  "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca"
+                                      }
+                                  ],
+                         "resourcepacks":  [
+                                               {
+                                                   "name":  "-1.21.2 Fresh Moves v3.1 (No Animated Eyes).zip",
+                                                   "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/resourcepacks/-1.21.2%20Fresh%20Moves%20v3.1%20(No%20Animated%20Eyes).zip",
+                                                   "sha256":  "91c2549cb3a462ca3d493a72a0ab478dc5fa74b047ac1b2a664d86a0f6f51f2d"
+                                               },
+                                               {
+                                                   "name":  "FreshAnimations_v1.10.4.zip",
+                                                   "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/resourcepacks/FreshAnimations_v1.10.4.zip",
+                                                   "sha256":  "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
+                                               },
+                                               {
+                                                   "name":  "LowOnFire v26.2Â§8.zip",
+                                                   "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/resourcepacks/LowOnFire%20v26.2%C2%A78.zip",
+                                                   "sha256":  "25fc89fedc6d47fe2480a60910c65c8fd8b50121aaab919933e47cc6ba730a67"
+                                               },
+                                               {
+                                                   "name":  "MandalasGUI+Dakmode_1.21.6_v2.1.zip",
+                                                   "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/resourcepacks/MandalasGUI%2BDakmode_1.21.6_v2.1.zip",
+                                                   "sha256":  "a760f0271ed5cc363761aac17a0b388cb56b273fa2ba055562d9f2e08965edfb"
+                                               }
+                                           ]
+                     }
+                 ]
+}
