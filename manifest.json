@@ -1,4 +1,4 @@
-﻿{
+{
     "serverStatus":  {
                          "state":  "online",
                          "label":  "REINOS CELESTIALES",
@@ -457,6 +457,11 @@
                                           "name":  "rightclickharvest-neoforge-4.6.1+1.21.1.jar",
                                           "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/rightclickharvest-neoforge-4.6.1+1.21.1.jar",
                                           "sha256":  "b5d597ed361964ba9530a848fe8987715f40af2390dfa1a6adb70a2a74076d52"
+                                      },
+                                      {
+                                          "name":  "Structory_1_21_x_v1_3_12.jar",
+                                          "url":  "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/Structory_1_21_x_v1_3_12.jar",
+                                          "sha256":  "2bf47c257b031b50f3fe6aaaba6a30d9e30a0a0ea8bbce63e2a85dee1f1644b1"
                                       },
                                       {
                                           "name":  "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
