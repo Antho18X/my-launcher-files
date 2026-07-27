@@ -477,6 +477,11 @@
                     "name": "SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
                     "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
                     "sha256": "86d89fce593f868cb6b542943c0f82850ca56970fe0327e401966d8d0420861d"
+                },
+                {
+                    "name": "GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+                    "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+                    "sha256": "9362e2faacc6c864a91c5d0f452305fe7a496aa6c91131af63d021f1baa773a7"
                 }
             ],
             "resourcepacks": [
@@ -491,7 +496,7 @@
                     "sha256": "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
                 },
                 {
-                    "name": "LowOnFire v26.2\u00c2\u00a78.zip",
+                    "name": "LowOnFire v26.2\u00a78.zip",
                     "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/resourcepacks/LowOnFire%20v26.2%C2%A78.zip",
                     "sha256": "25fc89fedc6d47fe2480a60910c65c8fd8b50121aaab919933e47cc6ba730a67"
                 },
