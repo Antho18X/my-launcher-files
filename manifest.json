@@ -74,6 +74,11 @@
                     "sha256": "482c90e0e6fe72f33fe7abb079e5fda581cd660ee53c38c44448a64283e1044c"
                 },
                 {
+                    "name": "create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+                    "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+                    "sha256": "b95dcdd43c859eaf1825f33b2b4c42226187a1e875d368b0b24ed0be1e0fa1b0"
+                },
+                {
                     "name": "CustomPlayerModels-1.21-0.6.27a.jar",
                     "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/CustomPlayerModels-1.21-0.6.27a.jar",
                     "sha256": "b5d3a473998648eefdf646e10a48af95dac57add0df681ca4407e83c716d6c84"
