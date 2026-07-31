@@ -94,11 +94,6 @@
                     "sha256": "4a2353159c6039d8ce090f7d399ae421e648fdacb7f29a18c67b58886b36f32c"
                 },
                 {
-                    "name": "Enhanced-Celestials-NeoForge-1.21.1-6.0.2.5.jar",
-                    "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/Enhanced-Celestials-NeoForge-1.21.1-6.0.2.5.jar",
-                    "sha256": "eb0d2c334278d2ca648ad43b29286ab9d58df59c2329ca605d1e039935b95b9d"
-                },
-                {
                     "name": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
                     "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
                     "sha256": "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02"
@@ -457,11 +452,6 @@
                     "name": "Ribbits-1.21.1-NeoForge-4.1.6.jar",
                     "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/Ribbits-1.21.1-NeoForge-4.1.6.jar",
                     "sha256": "794223f5a91b8b80a962754b5180ec3e2472db6941e9b6c1cdd49324df628389"
-                },
-                {
-                    "name": "rightclickharvest-neoforge-4.6.1+1.21.1.jar",
-                    "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/rightclickharvest-neoforge-4.6.1+1.21.1.jar",
-                    "sha256": "b5d597ed361964ba9530a848fe8987715f40af2390dfa1a6adb70a2a74076d52"
                 },
                 {
                     "name": "Structory_1.21.x_v1.3.12.jar",
