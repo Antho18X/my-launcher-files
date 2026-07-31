@@ -24,6 +24,11 @@
                     "sha256": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
                 },
                 {
+                    "name": "",
+                    "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/",
+                    "sha256": ""
+                },
+                {
                     "name": "architectury-13.0.8-neoforge.jar",
                     "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/architectury-13.0.8-neoforge.jar",
                     "sha256": "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
