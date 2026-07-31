@@ -3,7 +3,7 @@
         "state": "online",
         "label": "REINOS CELESTIALES",
         "message": "",
-        "updatedAt": "2026-07-31T22:04:45Z"
+        "updatedAt": "2026-07-31T22:08:30Z"
     },
     "versions": [
         {
@@ -499,8 +499,8 @@
                     "sha256": "db9a2fa385757656797a5a14ffad1777fbe596e2e443f1deba5f7534706eb806"
                 },
                 {
-                    "name": "artistry-1.1.1-neoforge-1.21.1.jar",
-                    "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/artistry-1.1.1-neoforge-1.21.1.jar",
+                    "name": "artistry-1.1.1+neoforge.1.21.1.jar",
+                    "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/artistry-1.1.1%2Bneoforge.1.21.1.jar",
                     "sha256": "ad0771f22dc0abb9c296e358a8ea196adc81c48d624dc2faa03a282c16b6e2c7"
                 }
             ],
