@@ -3,7 +3,7 @@
         "state": "online",
         "label": "REINOS CELESTIALES",
         "message": "",
-        "updatedAt": "2026-07-31T22:08:30Z"
+        "updatedAt": "2026-08-01T23:00:00Z"
     },
     "versions": [
         {
@@ -206,7 +206,12 @@
                 {
                     "name": "rc-reinos-celestiales-1.0.0.jar",
                     "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/rc-reinos-celestiales-1.0.0.jar",
-                    "sha256": "ee6d5391f1db550678031e24a40eedfc3ffe5d8a9f5a25b2d53a5974d3d7bed9"
+                    "sha256": "dd0eeb0dd2321d4f9844051cffdfba3d99d5af091d6470718797ae76a5acc7f4"
+                },
+                {
+                    "name": "shtreimel-neoforge-1.21.1-0.3.1-obf.jar",
+                    "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/shtreimel-neoforge-1.21.1-0.3.1-obf.jar",
+                    "sha256": "3aebf4cd855a12424976916a90a1a464e8cfe3c2a1df511b9ef1106bec7bc966"
                 },
                 {
                     "name": "sable-neoforge-1.21.1-2.0.3.jar",
