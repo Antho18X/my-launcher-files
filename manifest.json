@@ -572,11 +572,6 @@
                     "name": "sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
                     "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/sodium-extra-neoforge-0.9.3%2Bmc1.21.1.jar",
                     "sha256": "fa553bce38bad6fdd478841a270a79a31dc05f87d7892b1cf839850602ac9186"
-                },
-                {
-                    "name": "zfastnoise-1.0.11+2+1.21.1+neoforge.jar",
-                    "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/zfastnoise-1.0.11%2B2%2B1.21.1%2Bneoforge.jar",
-                    "sha256": "9829a2f79b43321c5e6ce1e37d52e7b3ec6e4a87fbc6821063751a7c0a5c96b2"
                 }
             ],
             "resourcepacks": [
