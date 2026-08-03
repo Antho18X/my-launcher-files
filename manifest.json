@@ -196,7 +196,7 @@
                 {
                     "name": "rc-reinos-celestiales-1.0.0.jar",
                     "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/rc-reinos-celestiales-1.0.0.jar",
-                    "sha256": "65f1c3c3953dc16bb4efcdda26e4e2a7292c805c233eb7c7fc4a8abb7848e329"
+                    "sha256": "1b981d27ed90ffe50dcfc7f4636bcb5fbc85ca990364dd65fcd4a201878833cb"
                 },
                 {
                     "name": "skinrestorer-2.9.0+1.21-neoforge.jar",
@@ -502,6 +502,11 @@
                     "name": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
                     "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
                     "sha256": "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8"
+                },
+                {
+                    "name": "fetzisasiandeco-neoforge-1.7.3-1.21.jar",
+                    "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/fetzisasiandeco-neoforge-1.7.3-1.21.jar",
+                    "sha256": "c6f581dd7c0ea3a1be9d44609b773295617b678c01dadd5846098be8d7558869"
                 }
             ],
             "resourcepacks": [
