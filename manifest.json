@@ -479,11 +479,6 @@
                     "sha256": "ad0771f22dc0abb9c296e358a8ea196adc81c48d624dc2faa03a282c16b6e2c7"
                 },
                 {
-                    "name": "TopSecret-2_0_1-neoforge-1_21_1.jar",
-                    "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/TopSecret-2_0_1-neoforge-1_21_1.jar",
-                    "sha256": "b0c6d6d028a5a0d7f7f9edbc6610639eb22da029eb86c230164656ad17903417"
-                },
-                {
                     "name": "fetzisasiandeco-neoforge-1.7.3-1.21.jar",
                     "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/fetzisasiandeco-neoforge-1.7.3-1.21.jar",
                     "sha256": "c6f581dd7c0ea3a1be9d44609b773295617b678c01dadd5846098be8d7558869"
