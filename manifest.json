@@ -196,7 +196,7 @@
                 {
                     "name": "rc-reinos-celestiales-1.0.0.jar",
                     "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/rc-reinos-celestiales-1.0.0.jar",
-                    "sha256": "c881379d3d49049fd77c13d2178216030ae693814440c2fc2d22577d5d0bd1d4"
+                    "sha256": "a876c56c737f9dc9618de1a5ddc91a9e11b807b2d252fc830c6be42863825a08"
                 },
                 {
                     "name": "skinrestorer-2.9.0+1.21-neoforge.jar",
@@ -479,29 +479,9 @@
                     "sha256": "ad0771f22dc0abb9c296e358a8ea196adc81c48d624dc2faa03a282c16b6e2c7"
                 },
                 {
-                    "name": "samurai_dynasty-0.1.6-1.21.1.jar",
-                    "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/samurai_dynasty-0.1.6-1.21.1.jar",
-                    "sha256": "21a2d2fe260e7e987f404bd90a4c746625b215dda4d84874ad30400e09974cd7"
-                },
-                {
                     "name": "TopSecret-2_0_1-neoforge-1_21_1.jar",
                     "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/TopSecret-2_0_1-neoforge-1_21_1.jar",
                     "sha256": "b0c6d6d028a5a0d7f7f9edbc6610639eb22da029eb86c230164656ad17903417"
-                },
-                {
-                    "name": "azurelib-neo-1.21.1-3.1.3.jar",
-                    "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/azurelib-neo-1.21.1-3.1.3.jar",
-                    "sha256": "7dbfa716368d3d116dde579803af8b433dd824cdd79bc07d56192ca6520237ec"
-                },
-                {
-                    "name": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.1.2.jar",
-                    "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.1.2.jar",
-                    "sha256": "c1194f42e831e220b9b7f962b70c4cebd9af94657391a4c4190513b8113ff151"
-                },
-                {
-                    "name": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
-                    "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
-                    "sha256": "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8"
                 },
                 {
                     "name": "fetzisasiandeco-neoforge-1.7.3-1.21.jar",
