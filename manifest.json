@@ -191,7 +191,12 @@
                 {
                     "name": "rc-reinos-celestiales-1.0.15.jar",
                     "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/rc-reinos-celestiales-1.0.15.jar",
-                    "sha256": "376c12ca27f20c3247c434d9e23aa727525478d67ad7fc78f5fa0a0a0f80f1dc"
+                    "sha256": "f2f01f6e5336f06a665db31b5fa937c7c3f8744ea6d104a8accdd9a116ad11f2"
+                },
+                {
+                    "name": "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+                    "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+                    "sha256": "05f1b8660f74f543fba61d4ce7cf8632d4c69a95b7c15b1a6fd442be2e397ca6"
                 },
                 {
                     "name": "skinrestorer-2.9.0+1.21-neoforge.jar",
@@ -387,11 +392,6 @@
                     "name": "monolib-neoforge-1.21.1-4.0.2.jar",
                     "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/monolib-neoforge-1.21.1-4.0.2.jar",
                     "sha256": "13b3806a99673cdfbc86d675a0c82b380e2f372e8cbacc88d5148885498a46e3"
-                },
-                {
-                    "name": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
-                    "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
-                    "sha256": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
                 },
                 {
                     "name": "naturalist-1.0.2-neoforge-1.21.1.jar",
