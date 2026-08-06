@@ -537,6 +537,11 @@
                     "name": "sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
                     "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/sodium-extra-neoforge-0.9.3%2Bmc1.21.1.jar",
                     "sha256": "fa553bce38bad6fdd478841a270a79a31dc05f87d7892b1cf839850602ac9186"
+                },
+                {
+                    "name": "libIPN-neoforge-1.21.1-6.6.3.jar",
+                    "url": "https://raw.githubusercontent.com/Antho18X/my-launcher-files/main/mods/libIPN-neoforge-1.21.1-6.6.3.jar",
+                    "sha256": "98f061ba69d31764fa10ab7810ca49062633e107a6b261ba3b66dc25ba5fef7b"
                 }
             ],
             "resourcepacks": [
